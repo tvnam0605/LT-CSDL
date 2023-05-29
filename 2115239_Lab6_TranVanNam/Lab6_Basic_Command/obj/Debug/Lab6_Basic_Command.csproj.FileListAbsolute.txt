@@ -1,0 +1,11 @@
+F:\Phát triển ứng dụng - DeskTop\2115239_Lab6_TranVanNam\Lab6_Basic_Command\bin\Debug\Lab6_Basic_Command.exe.config
+F:\Phát triển ứng dụng - DeskTop\2115239_Lab6_TranVanNam\Lab6_Basic_Command\bin\Debug\Lab6_Basic_Command.exe
+F:\Phát triển ứng dụng - DeskTop\2115239_Lab6_TranVanNam\Lab6_Basic_Command\bin\Debug\Lab6_Basic_Command.pdb
+F:\Phát triển ứng dụng - DeskTop\2115239_Lab6_TranVanNam\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.csproj.AssemblyReference.cache
+F:\Phát triển ứng dụng - DeskTop\2115239_Lab6_TranVanNam\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.Form1.resources
+F:\Phát triển ứng dụng - DeskTop\2115239_Lab6_TranVanNam\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.Properties.Resources.resources
+F:\Phát triển ứng dụng - DeskTop\2115239_Lab6_TranVanNam\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.csproj.GenerateResource.cache
+F:\Phát triển ứng dụng - DeskTop\2115239_Lab6_TranVanNam\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.csproj.CoreCompileInputs.cache
+F:\Phát triển ứng dụng - DeskTop\2115239_Lab6_TranVanNam\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.exe
+F:\Phát triển ứng dụng - DeskTop\2115239_Lab6_TranVanNam\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.pdb
+F:\Phát triển ứng dụng - DeskTop\2115239_Lab6_TranVanNam\Lab6_Basic_Command\obj\Debug\Lab6_Basic_Command.frmFood.resources
