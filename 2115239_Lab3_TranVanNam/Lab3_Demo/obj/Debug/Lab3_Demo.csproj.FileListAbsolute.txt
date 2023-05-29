@@ -1,0 +1,54 @@
+Z:\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.exe.config
+Z:\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.exe
+Z:\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.pdb
+Z:\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csprojAssemblyReference.cache
+Z:\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.frmSinhVien.resources
+Z:\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.Properties.Resources.resources
+Z:\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.GenerateResource.cache
+Z:\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.CoreCompileInputs.cache
+Z:\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.exe
+Z:\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.pdb
+F:\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.AssemblyReference.cache
+F:\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.frmSinhVien.resources
+F:\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.Properties.Resources.resources
+F:\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.GenerateResource.cache
+F:\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.CoreCompileInputs.cache
+F:\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.exe
+F:\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.pdb
+F:\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.exe.config
+F:\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.exe
+F:\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.pdb
+F:\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.frmTuyChon.resources
+C:\Users\CICT\Downloads\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.exe.config
+C:\Users\CICT\Downloads\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.exe
+C:\Users\CICT\Downloads\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.pdb
+C:\Users\CICT\Downloads\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csprojAssemblyReference.cache
+C:\Users\CICT\Downloads\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.frmSinhVien.resources
+C:\Users\CICT\Downloads\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.frmTuyChon.resources
+C:\Users\CICT\Downloads\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.Properties.Resources.resources
+C:\Users\CICT\Downloads\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.GenerateResource.cache
+C:\Users\CICT\Downloads\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.CoreCompileInputs.cache
+C:\Users\CICT\Downloads\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.exe
+C:\Users\CICT\Downloads\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.pdb
+C:\Users\MyPC\Downloads\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.exe.config
+C:\Users\MyPC\Downloads\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.exe
+C:\Users\MyPC\Downloads\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.pdb
+C:\Users\MyPC\Downloads\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.frmSinhVien.resources
+C:\Users\MyPC\Downloads\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.frmTuyChon.resources
+C:\Users\MyPC\Downloads\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.Properties.Resources.resources
+C:\Users\MyPC\Downloads\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.GenerateResource.cache
+C:\Users\MyPC\Downloads\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\Downloads\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.exe
+C:\Users\MyPC\Downloads\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.pdb
+C:\Users\MyPC\Downloads\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.AssemblyReference.cache
+D:\Phát triển ứng dụng - DeskTop\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.exe.config
+D:\Phát triển ứng dụng - DeskTop\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.exe
+D:\Phát triển ứng dụng - DeskTop\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.pdb
+D:\Phát triển ứng dụng - DeskTop\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csprojAssemblyReference.cache
+D:\Phát triển ứng dụng - DeskTop\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.frmSinhVien.resources
+D:\Phát triển ứng dụng - DeskTop\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.frmTuyChon.resources
+D:\Phát triển ứng dụng - DeskTop\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.Properties.Resources.resources
+D:\Phát triển ứng dụng - DeskTop\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.GenerateResource.cache
+D:\Phát triển ứng dụng - DeskTop\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.CoreCompileInputs.cache
+D:\Phát triển ứng dụng - DeskTop\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.exe
+D:\Phát triển ứng dụng - DeskTop\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.pdb
