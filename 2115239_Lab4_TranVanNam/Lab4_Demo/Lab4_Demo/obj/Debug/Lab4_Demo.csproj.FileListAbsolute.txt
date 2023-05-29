@@ -1,0 +1,30 @@
+Z:\2115239_Lab4_TranVanNam\Lab4_Demo\Lab4_Demo\bin\Debug\Lab4_Demo.exe.config
+Z:\2115239_Lab4_TranVanNam\Lab4_Demo\Lab4_Demo\bin\Debug\Lab4_Demo.exe
+Z:\2115239_Lab4_TranVanNam\Lab4_Demo\Lab4_Demo\bin\Debug\Lab4_Demo.pdb
+Z:\2115239_Lab4_TranVanNam\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.csprojAssemblyReference.cache
+Z:\2115239_Lab4_TranVanNam\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.frmChinh.resources
+Z:\2115239_Lab4_TranVanNam\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.Properties.Resources.resources
+Z:\2115239_Lab4_TranVanNam\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.csproj.GenerateResource.cache
+Z:\2115239_Lab4_TranVanNam\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.csproj.CoreCompileInputs.cache
+Z:\2115239_Lab4_TranVanNam\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.exe
+Z:\2115239_Lab4_TranVanNam\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.pdb
+C:\Users\MyPC\Downloads\2115239_Lab4_TranVanNam\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.csproj.AssemblyReference.cache
+C:\Users\MyPC\Downloads\2115239_Lab4_TranVanNam\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.frmChinh.resources
+C:\Users\MyPC\Downloads\2115239_Lab4_TranVanNam\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.Properties.Resources.resources
+C:\Users\MyPC\Downloads\2115239_Lab4_TranVanNam\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.csproj.GenerateResource.cache
+C:\Users\MyPC\Downloads\2115239_Lab4_TranVanNam\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\Downloads\2115239_Lab4_TranVanNam\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.exe
+C:\Users\MyPC\Downloads\2115239_Lab4_TranVanNam\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.pdb
+C:\Users\MyPC\Downloads\2115239_Lab4_TranVanNam\Lab4_Demo\Lab4_Demo\bin\Debug\Lab4_Demo.exe.config
+C:\Users\MyPC\Downloads\2115239_Lab4_TranVanNam\Lab4_Demo\Lab4_Demo\bin\Debug\Lab4_Demo.exe
+C:\Users\MyPC\Downloads\2115239_Lab4_TranVanNam\Lab4_Demo\Lab4_Demo\bin\Debug\Lab4_Demo.pdb
+F:\Phát triển ứng dụng - DeskTop\2115239_Lab4_TranVanNam\Lab4_Demo\Lab4_Demo\bin\Debug\Lab4_Demo.exe.config
+F:\Phát triển ứng dụng - DeskTop\2115239_Lab4_TranVanNam\Lab4_Demo\Lab4_Demo\bin\Debug\Lab4_Demo.exe
+F:\Phát triển ứng dụng - DeskTop\2115239_Lab4_TranVanNam\Lab4_Demo\Lab4_Demo\bin\Debug\Lab4_Demo.pdb
+F:\Phát triển ứng dụng - DeskTop\2115239_Lab4_TranVanNam\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.csproj.AssemblyReference.cache
+F:\Phát triển ứng dụng - DeskTop\2115239_Lab4_TranVanNam\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.frmChinh.resources
+F:\Phát triển ứng dụng - DeskTop\2115239_Lab4_TranVanNam\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.Properties.Resources.resources
+F:\Phát triển ứng dụng - DeskTop\2115239_Lab4_TranVanNam\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.csproj.GenerateResource.cache
+F:\Phát triển ứng dụng - DeskTop\2115239_Lab4_TranVanNam\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.csproj.CoreCompileInputs.cache
+F:\Phát triển ứng dụng - DeskTop\2115239_Lab4_TranVanNam\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.exe
+F:\Phát triển ứng dụng - DeskTop\2115239_Lab4_TranVanNam\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.pdb
