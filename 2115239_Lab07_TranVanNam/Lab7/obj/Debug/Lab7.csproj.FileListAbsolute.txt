@@ -1,0 +1,30 @@
+D:\Lab7\Lab7\bin\Debug\Lab7.exe
+D:\Lab7\Lab7\bin\Debug\Lab7.pdb
+D:\Lab7\Lab7\obj\Debug\Lab7.Form1.resources
+D:\Lab7\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+D:\Lab7\Lab7\obj\Debug\Lab7.csproj.GenerateResource.cache
+D:\Lab7\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+D:\Lab7\Lab7\obj\Debug\Lab7.exe
+D:\Lab7\Lab7\obj\Debug\Lab7.pdb
+D:\Lab7\Lab7\obj\Debug\Lab7.AccountForrm.resources
+D:\Lab7\Lab7\obj\Debug\Lab7.AddCateForm.resources
+D:\Lab7\Lab7\obj\Debug\Lab7.FoodInfoForrm.resources
+D:\Lab7\Lab7\obj\Debug\Lab7.OrderDetailsForm.resources
+D:\Lab7\Lab7\obj\Debug\Lab7.OrderForm.resources
+D:\Lab7\Lab7\obj\Debug\Lab7.RoleForm.resources
+D:\Lab7\Lab7\obj\Debug\Lab7.csprojAssemblyReference.cache
+D:\Phát triển ứng dụng - DeskTop\Lab7\Lab7\bin\Debug\Lab7.exe
+D:\Phát triển ứng dụng - DeskTop\Lab7\Lab7\bin\Debug\Lab7.pdb
+D:\Phát triển ứng dụng - DeskTop\Lab7\Lab7\obj\Debug\Lab7.csprojAssemblyReference.cache
+D:\Phát triển ứng dụng - DeskTop\Lab7\Lab7\obj\Debug\Lab7.AccountForrm.resources
+D:\Phát triển ứng dụng - DeskTop\Lab7\Lab7\obj\Debug\Lab7.AddCateForm.resources
+D:\Phát triển ứng dụng - DeskTop\Lab7\Lab7\obj\Debug\Lab7.FoodInfoForrm.resources
+D:\Phát triển ứng dụng - DeskTop\Lab7\Lab7\obj\Debug\Lab7.Form1.resources
+D:\Phát triển ứng dụng - DeskTop\Lab7\Lab7\obj\Debug\Lab7.OrderDetailsForm.resources
+D:\Phát triển ứng dụng - DeskTop\Lab7\Lab7\obj\Debug\Lab7.OrderForm.resources
+D:\Phát triển ứng dụng - DeskTop\Lab7\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+D:\Phát triển ứng dụng - DeskTop\Lab7\Lab7\obj\Debug\Lab7.RoleForm.resources
+D:\Phát triển ứng dụng - DeskTop\Lab7\Lab7\obj\Debug\Lab7.csproj.GenerateResource.cache
+D:\Phát triển ứng dụng - DeskTop\Lab7\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+D:\Phát triển ứng dụng - DeskTop\Lab7\Lab7\obj\Debug\Lab7.exe
+D:\Phát triển ứng dụng - DeskTop\Lab7\Lab7\obj\Debug\Lab7.pdb
